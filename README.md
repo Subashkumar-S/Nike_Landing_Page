@@ -1,6 +1,6 @@
 # Nike Landing Page
 
-![Nike Landing Page Screenshot](./screenshot/home-preview.png)
+![](./screenshot/home-preview.png)
 
 Welcome to the Nike Landing Page! This is a sample README file to provide you with information about this website.
 
@@ -22,7 +22,7 @@ You can access the live website [here](https://nike-landing-page-f5616.web.app/)
 
 ## Screenshot
 
-![Nike Landing Page Screenshot](./screenshot/landing-page.png)
+![](./screenshot/landing-page.png)
 
 ## Features
 
